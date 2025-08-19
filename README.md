@@ -28,12 +28,6 @@ All calculations were performed in **Python** using [GPAW](https://wiki.fysik.dt
 - Indirect band gap: VBM at Γ, CBM near X.
 - Gap ≈ **0.6 eV**, compared to experimental 1.1 eV.
 
-<p align="center">
-  <img src="results/si_eos.png" width="300"/>
-  <img src="results/si_dos.png" width="300"/>
-  <img src="results/si_band.png" width="300"/>
-</p>
-
 ## 📚 Conclusion
 This project reproduces the **key electronic properties of silicon** using DFT:
 - Indirect band gap
